@@ -1,0 +1,9 @@
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\bin\Debug\UnitTestStack.exe.config
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\bin\Debug\UnitTestStack.exe
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\bin\Debug\UnitTestStack.pdb
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\bin\Debug\nunit.framework.dll
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\bin\Debug\Should.dll
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\bin\Debug\nunit.framework.xml
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\obj\Debug\UnitTestStack.csprojResolveAssemblyReference.cache
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\obj\Debug\UnitTestStack.exe
+C:\Users\jeff5_000\Documents\Visual Studio 2012\Projects\UnitTestStack\UnitTestStack\obj\Debug\UnitTestStack.pdb
